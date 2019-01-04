@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<fieldset>
+<form>
+<div>
+<label for="fname">First NAME </label>
+<input type="text" name="firstname"  placeholder="Your name...">
+</form>
+</div>
+</body>
+</html>
